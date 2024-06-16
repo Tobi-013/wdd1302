@@ -49,7 +49,7 @@
 }
              
 .home-grid{
-grid-template-columns:10fr;
+grid-template-columns:10 , 1fr;
 }
  
 main section{
