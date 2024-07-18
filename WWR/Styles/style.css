@@ -2,6 +2,7 @@
 :root{
     --heading-font: "Poppins";
     --paragraph-font: Fredoka, Helvetica, sans-serif;
+    
     }
 
 
@@ -66,6 +67,7 @@ body {
     background-color: #fcfbfb;
     margin: 0;
     padding: 0;
+    font-family: var(--paragraph-font);
 }
 
 h2 {
